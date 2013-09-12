@@ -1,0 +1,41 @@
+{
+    "auto_complete_delay": 20,
+    "auto_indent": true,
+    "auto_match_enabled": true,
+    "color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+    "detect_indentation": true,
+    "draw_white_space": "selection",
+    "find_selected_text": true,
+    "font_face": "Courier New",
+    "font_options":
+    [
+        "no_round"
+    ],
+    "font_size": 13,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_to_bracket": true,
+    "match_brackets": true,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "match_bracktets_angle": true,
+    "rulers":
+    [
+        72,
+        80
+    ],
+    "show_full_path": true,
+    "smart_indent": true,
+    "soda_folder_icons": true,
+    "tab_size": 4,
+    "theme": "Soda Dark.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_tab_stops": true
+}
